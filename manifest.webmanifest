@@ -1,15 +1,1 @@
-{
-  "name": "Читалка",
-  "short_name": "Читалка",
-  "description": "Читалка английских текстов: зажми слово — получи перевод",
-  "lang": "ru",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#f1e9d6",
-  "theme_color": "#a3194f",
-  "icons": [
-    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
-  ]
-}
+{"name":"Читалка","short_name":"Читалка","description":"Читалка английских текстов: зажми слово — получи перевод","lang":"ru","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#f1e9d6","theme_color":"#a3194f","icons":[{"src":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADAAgMAAAAvsoSUAAAADFBMVEX//PXnwMm/XYGjGU/Tn+hsAAABHElEQVR42u3ZP04CQRTH8e9DBBMsKGg0JHAUjkBF4xG8hIcw4QR03gGu4A0oSIyEUo2Q7D6LQcmyA86aqIn+XjOT3Xwyb/5ns+ZUixoCAgICAgICAgICAn8T3JuZmfXJQ8Xqv55SJxRDbFB4sAvfiwlg1+6e377XCmGlbyCDWgaQn0DzVUtDQOBbweCfdtqrtuCVh3VWBbSPg9LZ6nOg5+6eAc3S63gLK4CHxJTOgJcZLLuJKWUAl/kEoimVj/tClinHvd0cn2qPDtNHCwmjxMVe+enSaIScGovUlHwNcDqNT1wM+OOQ0fTATNvhlalbVEDg68DHwOYuZU+Hjb29Ta9St+jzeShbTz/dadP/BwEBAQEBAQEBAQGBxHgDWHAv5T2jTE4AAAAASUVORK5CYII=","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAgMAAACJFjxpAAAADFBMVEX//PXtz9S2SHGjGU+Q8dLNAAADDUlEQVR42u3cvW7TQBwAcLtqykcZGFAk1IE+Ao+QrWsH6BB4g0qIR8gjMNA3gKEsYWBhSngDeAOQurRiAKkV0EKOARHbjSvZceKrlN8tsWzl7nf3v7ucv5KGJG5aSwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACqms3Qmrf878iEtSdtCAAAAsHBAZ3bXvcJHIaW7lQWhajq/nGf//5HjmdK6w8rZVgeEyctCHfdzRw6KjbVfPdM6gBBe5wop1jHfCP1RWBYgDKalPLh05DTrVbVyDIYhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQD1ATwhWHnBXCKbp28r3gd9aYEVbYP36tECI3QKrCkizzXHsUTCO3QJvYwM+xwlBtij8GRtwEQewO92ajKMAcmuy54UDX+cFpPVmlO+ZYPM0t//8RlalP8tsgWwqTH7kdl/stBWCm9nmZJDNy3sNOkS9p//yzbs5faDyRaFK9XKsCcj3mHRUVv6yAYNcURulD7suGfAxX1Z3GE4OZnpVvQxrDsP8OLyqWy91GOaHQZz1wEZsQLroiyR1+0Dy6eFi+0BtwNmduJ0wuRX7+sDaIHIfSL5sxw1Bcr+0Hu/aOy/YKIvBs157ISgbB1tH2c6lhyC5PVPb7lGrp2bpq8tBOWz53HCruALpvG80PYc50q98iZ1Ro1c85gLkBd1RiADI1mH9pi+5zAkI4fBxL+nsDRu/ZZMu6FpLm/NA5F9DAAAAAAAAAAAAAAAAAAAAAAAAAACAawp483S6OXlS76thAenkUSHLzrCN+wVX/itZkiRpv837Bec749md3eOqX28OKL2fn04MQwAAgPYmIiEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGiY/gJGevoaRiridwAAAABJRU5ErkJggg==","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
